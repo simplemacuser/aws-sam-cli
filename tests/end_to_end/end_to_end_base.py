@@ -2,7 +2,7 @@ from pathlib import Path
 
 import os
 
-from typing import List
+from typing import List, Tuple
 
 from samcli.cli.global_config import GlobalConfig
 from tests.end_to_end.test_stages import EndToEndBaseStage
